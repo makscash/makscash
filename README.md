@@ -1,4 +1,4 @@
-[![Header](https://github.com/makscash/makscash/tree/main/assets/QA_engineer.png)]
+https://github.com/makscash/makscash/tree/main/assets/QA_engineer.png
 ## QA Engineer 
 ## Моё резюме
 [Ссылка на моё резюме](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
