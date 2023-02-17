@@ -1,9 +1,9 @@
 [![Header](https://github.com/makscash/makscash/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
-## I'm a Junior QA Engineer 
-## My CV
+## QA Engineer 
+## Моё резюме
 [Link to my CV](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
 
-### Language and Tools
+### Инструменты и языки
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
 ![Header](https://img.shields.io/badge/Postman-090909?style=for-the-badge&logo=postman&logoColor=f76935)
 ![Header](https://img.shields.io/badge/Swagger-090909?style=for-the-badge&logo=swagger&logoColor=7ede2b)
@@ -15,7 +15,7 @@
 ![Header](https://img.shields.io/badge/Fiddler-090909?style=for-the-badge&logo=fiddler&logoColor=8cc4d7)
 ![Header](https://img.shields.io/badge/CharlesProxy-090909?style=for-the-badge&logo=charlesproxy&logoColor=8cc4d7)
 
-### Testing Documentation
+### Примеры тестовой документации
 
 - [Checklists](https://github.com/makscash/makscash/tree/main/checklist)
 - [Test-Suites and Test-Cases](https://github.com/makscash/makscash/tree/main/test-cases)
@@ -23,8 +23,8 @@
 - [SQL Queries](https://github.com/makscash/makscash/tree/main/SQL)
 - [Postman Collections](https://github.com/makscash/makscash/tree/main/postman)
 
-### Contact Me
+### Связаться со мной
 [![Header](https://img.shields.io/badge/Telegram-090909?style=for-the-badge&logo=telegram&logoColor=31a5db)](https://t.me/makscashqq)
-[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/artsiomrusau/)
+[![Header](https://img.shields.io/badge/Linkedin-090909?style=for-the-badge&logo=linkedin&logoColor=0073b1)](https://www.linkedin.com/in/makscash/)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=makscash&show_icons=true&theme=radical)
