@@ -1,7 +1,7 @@
 [![Header](https://github.com/makscash/makscash/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 ## QA Engineer 
 ## Моё резюме
-[Link to my CV](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
+[Ссылка на моё резюме](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
 
 ### Инструменты и языки
 ![Header](https://img.shields.io/badge/Jira-090909?style=for-the-badge&logo=jira&logoColor=136be1)
