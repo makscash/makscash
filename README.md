@@ -1,4 +1,4 @@
-https://github.com/makscash/makscash/tree/main/assets/QA_engineer.png
+[![Header](https://github.com/makscash/makscash/blob/main/assets/Frame%20635%20(3).png)](https://artsiomrusau.com/)
 ## QA Engineer 
 ## Моё резюме
 [Ссылка на моё резюме](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
