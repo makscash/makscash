@@ -1,6 +1,6 @@
 ![Header](https://github.com/makscash/makscash/blob/9a7ebc7d2b8f20502272c5cb625e33d043bb7328/assets/QA_engineer.png)
 ## QA Engineer 
-## Моё резюме
+## Резюме
 [Ссылка на моё резюме](https://drive.google.com/file/d/1-1UATwu2R-7epUD16EGPr02TLhNXRiC4/view?usp=sharing)
 
 ### Инструменты и языки
